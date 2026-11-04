@@ -1,0 +1,47 @@
+name: Build & Release Package
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Package and Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate Theme Structure
+        run: |
+          python3 tools/scan_theme.py
+
+      - name: Package Icon Theme
+        run: |
+          VERSION="${GITHUB_REF_NAME:-latest}"
+          # Package archive matching Plasma's native tar.xz expectations
+          tar -cJf "Breeze-Dark-Rounded-${VERSION}.tar.xz" Breeze-Dark-Rounded
+          cp "Breeze-Dark-Rounded-${VERSION}.tar.xz" "Breeze-Dark-Rounded.tar.xz"
+          sha256sum Breeze-Dark-Rounded*.tar.xz > SHA256SUMS
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            Breeze-Dark-Rounded-*.tar.xz
+            Breeze-Dark-Rounded.tar.xz
+            SHA256SUMS
+          generate_release_notes: true
+          draft: false
+          prerelease: false

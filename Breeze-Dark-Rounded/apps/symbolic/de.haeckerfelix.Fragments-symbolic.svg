@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="de.haeckerfelix.Fragments-symbolic.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.65625"
+     inkscape:cx="7.4398943"
+     inkscape:cy="10.166446"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <title
+     id="title1">Gnome Symbolic Icon Theme</title>
+  <g
+     transform="matrix(0.74999766,0,0,0.74999766,-240.24923,95.734708)"
+     fill="#dedede"
+     id="g3">
+    <path
+       d="m 331,-124.98 c -0.26956,0 -0.53953,0.1015 -0.74609,0.30469 l -6.9453,6.832 c -0.20661,0.20325 -0.30896,0.46922 -0.3086,0.73437 v 0.25782 c -4e-4,0.26517 0.10199,0.53111 0.3086,0.73437 l 6.9453,6.832 c 0.41311,0.4064 1.0791,0.4064 1.4922,0 l 6.9453,-6.832 c 0.20663,-0.20326 0.30894,-0.4692 0.30859,-0.73437 v -0.25782 c 4e-4,-0.26515 -0.10196,-0.53112 -0.30859,-0.73437 l -6.9453,-6.832 c -0.20657,-0.20319 -0.47653,-0.30469 -0.7461,-0.30469 z m -0.002,0.98047 7,7 -7,7 -7,-7 z"
+       id="path1" />
+    <path
+       d="m 331,-116.98 v 6.9799 l 6.9799,-6.9799 z"
+       opacity="0.35"
+       id="path2" />
+    <path
+       d="m 324,-117 h 7 v 7 z"
+       id="path3" />
+  </g>
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

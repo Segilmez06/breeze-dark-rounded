@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gnome-aisleriot-symbolic.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.65625"
+     inkscape:cx="8.3698811"
+     inkscape:cy="8.4332893"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M 5.2143049,2.0000857 A 3.2151196,3.2151196 0 0 0 2.000042,5.1440635 c 0,0.8082797 0.2117126,1.4377607 0.4285684,2.0206138 C 3.4460317,9.5732314 5.4285891,11.586302 7.9999995,14 10.571411,11.586302 12.553969,9.5732314 13.571387,7.1646773 13.788244,6.5818242 13.999958,5.9514856 13.999958,5.1423493 A 3.2151196,3.2151196 0 0 0 7.9999995,3.6121885 3.2125487,3.2125487 0 0 0 5.2143049,2 Z m 5.4257641,0.8487628 c 0.242398,-0.00764 0.487849,0.022379 0.728227,0.083701 0.958793,0.244628 1.738103,0.9781657 1.771187,2.2215279 -0.0024,0.6445842 -0.161917,1.1391346 -0.366626,1.6908737 C 11.925101,8.8424251 10.213959,10.665731 7.9999736,12.779596 5.785989,10.665731 4.074887,8.8423391 3.2270934,6.8449535 3.0223917,6.293266 2.8626904,5.7994181 2.8604704,5.1557939 2.8935403,3.868803 3.9258056,2.8572964 5.2142533,2.8572964 6.0588585,2.8571426 6.8356992,3.3069846 7.2566385,4.0392016 L 7.9982595,5.3299642 8.7432313,4.0392016 C 9.2113736,3.2268162 9.9127929,2.8717816 10.639983,2.8488965 Z"
+     fill="#dedede"
+     stroke-linecap="round"
+     id="path1"
+     style="stroke-width:0.857135" />
+</svg>
