@@ -49,7 +49,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-      color:#232629;
+      color:#fcfcfc;
       }
       .ColorScheme-Accent {
       color:#3daee9;
@@ -79,7 +79,7 @@
      id="path3"
      sodipodi:nodetypes="ccccccccccccccccc" />
   <path
-     style="color:#232629;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.909096"
+     style="color:#fcfcfc;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.909096"
      d="m 38.36364,27 v 18.18182 h 1.81818 V 27 Z m -10.9091,7.27272 v 10.9091 h 1.81818 v -10.9091 z m 3.63636,3.63638 v 7.27272 h 1.8182 V 37.9091 Z m 3.63638,2.72726 v 4.54546 h 1.81818 v -4.54546 z m -10.9091,1.81818 v 2.72728 h 1.81818 V 42.45454 Z M 22,46.0909 V 47 h 20 v -0.9091 z"
      class="ColorScheme-Text"
      id="path4126" />

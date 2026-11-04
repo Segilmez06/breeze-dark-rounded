@@ -49,7 +49,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-      color:#232629;
+      color:#fcfcfc;
       }
       .ColorScheme-Accent {
       color:#3daee9;
@@ -79,7 +79,7 @@
      id="path3"
      sodipodi:nodetypes="ccccccccccccccccc" />
   <path
-     style="color:#232629;fill:#e5e5e5;fill-opacity:1;stroke:none"
+     style="color:#fcfcfc;fill:#e5e5e5;fill-opacity:1;stroke:none"
      d="m 29,27 7,12.9 h 7 L 36,27 Z m -1,1.1 -7,11.5 3.2,6.7 L 31,34.1 Z M 28.9,41.3 25.4,47 H 39.5 L 43,41.3 Z"
      class="ColorScheme-Text"
      id="path145" />

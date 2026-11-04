@@ -34,7 +34,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -43,34 +43,34 @@
        id="lightning"
        d="m 25.415,22 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
        fill="currentColor"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
     <path
        d="m 34,37 -3,3 3,3 3,-3 z"
        fill="currentColor"
        id="path1"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
     <path
        d="m 17,32 -3,3 3,3 3,-3 z"
        fill="currentColor"
        id="path2"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
     <path
        d="m 9,38 a 2,2.0711 0 0 0 0,2.9289 2,2.0711 0 0 0 2.8284,0 2,2.0711 0 0 0 0,-2.9289 l -1.4142,-1.4645 z"
        fill="currentColor"
        id="path3"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
     <path
        d="m 37,34 a 2,2.0711 0 0 0 0,2.9289 2,2.0711 0 0 0 2.8284,0 2,2.0711 0 0 0 0,-2.9289 l -1.4142,-1.4645 z"
        fill="currentColor"
        id="path4"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-width:2;stroke-linejoin:bevel" />
     <path
        d="M 13,21.5 C 9.72138,16.038258 10.543327,9.0517073 15,4.5 2.9743192,6.4524474 1.1746507,23.009397 12.5,27.5"
        fill="none"
        stroke="currentColor"
        stroke-width="2"
        id="path5"
-       style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1"
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <path
        id="cloud"
@@ -78,7 +78,7 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f2f3f4;stroke-linejoin:bevel;stroke-opacity:1"
+       style="color:#fcfcfc;stroke:#f2f3f4;stroke-linejoin:bevel;stroke-opacity:1"
        sodipodi:nodetypes="ccscccscc" />
   </g>
 </svg>

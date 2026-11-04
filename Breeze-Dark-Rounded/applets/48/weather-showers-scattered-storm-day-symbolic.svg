@@ -33,7 +33,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -43,57 +43,57 @@
        d="m 14,40 5,-7"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="translate(18)"
        href="#rainwsd"
        id="use1"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="lightning"
        d="m 25.415,22 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
        fill="currentColor"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        d="M 4,20 H 9"
        fill="none"
        stroke="currentColor"
        stroke-width="2"
        id="path8"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(36,20,20)"
        href="#path8"
        id="use2"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(72,20,20)"
        href="#path8"
        id="use3"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(108,20,20)"
        href="#path8"
        id="use4"
-       style="color:#232629;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;stroke-linejoin:bevel" />
     <use
        transform="rotate(-36,20,20)"
        href="#path8"
        id="use5"
-       style="color:#232629;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f3f3f3;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="cloud"
        d="m 31,30 h 5 A 7,7 0 0 0 36.95,16.08 9,9 0 0 0 28,8 9,9 0 0 0 19.64,20.31 5,5 0 1 0 18.01,30 h 2"
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="sun"
        d="M 12.9,25.5 A 9,9 0 0 1 20.8,11.02"
        stroke="currentColor"
        stroke-width="2"
        fill="none"
-       style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
   </g>
 </svg>

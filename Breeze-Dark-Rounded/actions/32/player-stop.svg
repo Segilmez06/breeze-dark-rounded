@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs id="defs1">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text { color: #fcfcfc; }
+    </style>
+  </defs>
+  <g class="ColorScheme-Text" fill="currentColor">
+    <rect x="6.5" y="6.5" width="19" height="19" rx="3.5" ry="3.5" />
+  </g>
+</svg>

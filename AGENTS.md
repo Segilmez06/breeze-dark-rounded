@@ -19,8 +19,10 @@ Breeze Dark Rounded (`net.sarpegilmez.breeze-dark-rounded`) is a unified, curate
 3. **Plasma 6 System Settings Compliance**:
    - Directory definitions in `index.theme` for `preferences/*` MUST use `Context=Applications` and `Type=Scalable` (`MinSize=32`, `MaxSize=256`). `Context=Preferences` is invalid in KDE Frameworks (`KIconThemes`) and causes directory rejection.
    - Suffix-stripping fallback requires `apps/48` to exclude generic settings icons (`preferences-desktop.svg`), ensuring queries resolve to dedicated modules in `preferences/32`.
-4. **Media Controls**:
-   - Standardized on Option A: rounded circular borders with curved inner playback glyphs across all sizes (16, 22, 24, 32) and symbolic counterparts.
+4. **Media Controls & Dark Mode Fallbacks**:
+   - Standardized on bare glyphs (NO circular ring/border) with mathematically exact rounded vertices and pill caps across all sizes (16, 22, 24, 32), symbolic links, and status/action mappings.
+   - All glyphs provide pure white (`#fcfcfc`) dark-mode styling (`.ColorScheme-Text { color: #fcfcfc; }`).
+   - Purged all 585 residual `#232629` (Breeze Light charcoal) text color fallbacks across the theme tree, eliminating invisible black-on-dark rendering in GTK, Flatpak, and non-KDE applications.
 5. **Alien Squircle Prohibition**:
    - Purged 3,200+ WhiteSur/BigSur third-party squircle app dumps. Un-themed applications fall back cleanly to vanilla Breeze or their vendor branding (`hicolor`).
 
@@ -36,4 +38,5 @@ Breeze Dark Rounded (`net.sarpegilmez.breeze-dark-rounded`) is a unified, curate
 - **2026-11-05**: Generated multi-page visual conflict selector; applied user preferences for KDE apps, folder badges, and actions.
 - **2026-11-05**: Diagnosed and resolved Plasma 6 System Settings squircle fallback regression by fixing invalid XDG contexts, restoring official preferences SVGs, and purging rogue `apps/` overrides.
 - **2026-11-05**: Completed 30,622-entry scan with zero broken links; converted absolute symlinks to relative; added `@2x`/`@3x` High-DPI scaled symlinks.
-- **2026-11-05**: Switched media controls to Option A (rounded circular border & curved glyphs); created release pipeline, documentation, and installation scripts.
+- **2026-11-05**: Released `v0.1.0` with CI/CD release workflow and automated tarball packaging.
+- **2026-11-05**: Resolved media controls inconsistency: eliminated circular rings in favor of bare rounded glyphs with pure white (`#fcfcfc`) styling; purged 585 `#232629` dark fallbacks across the theme; added `~/.icons` compatibility link for Flatpaks.

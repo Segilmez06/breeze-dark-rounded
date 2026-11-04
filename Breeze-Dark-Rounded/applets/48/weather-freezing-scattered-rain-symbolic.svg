@@ -33,7 +33,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -44,27 +44,27 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1"
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1"
        sodipodi:nodetypes="ccscccsccc" />
     <path
        d="m 25.100403,86.392508 -3,3 3,3 3,-3 z"
        id="path1"
-       style="color:#232629;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
+       style="color:#fcfcfc;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
        sodipodi:nodetypes="ccccc" />
     <path
        d="m 35.100403,92.392508 -3,3 3,3 3,-3 z"
        id="path2"
-       style="color:#232629;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
+       style="color:#fcfcfc;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
        sodipodi:nodetypes="ccccc" />
     <path
        d="m 36.690403,88.392508 c -0.781031,0.781045 -0.781031,2.047355 0,2.8284 0.781045,0.781031 2.047355,0.781031 2.8284,0 0.781031,-0.781045 0.781031,-2.047355 0,-2.8284 l -1.4142,-1.4142 z"
        id="path3"
-       style="color:#232629;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
+       style="color:#fcfcfc;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
        sodipodi:nodetypes="cccccc" />
     <path
        d="m 19.690403,94.392508 c -0.781031,0.781045 -0.781031,2.047355 0,2.8284 0.781045,0.781031 2.047355,0.781031 2.8284,0 0.781031,-0.781045 0.781031,-2.047355 0,-2.8284 l -1.4142,-1.4142 z"
        id="path4"
-       style="color:#232629;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
+       style="color:#fcfcfc;fill:#f1f4f4;fill-opacity:1;stroke-linejoin:bevel"
        sodipodi:nodetypes="cccccc" />
   </g>
 </svg>

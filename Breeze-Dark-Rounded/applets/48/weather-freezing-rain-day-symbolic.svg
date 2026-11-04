@@ -33,7 +33,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -49,35 +49,35 @@
     <path
        d="m 16,33 -3,3 3,3 3,-3 z"
        id="path1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 32,33 -3,3 3,3 3,-3 z"
        id="path2"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 20,39 -3,3 3,3 3,-3 z"
        id="path3"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 36,39 -3,3 3,3 3,-3 z"
        id="path4"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 26.6,40.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
        id="path5"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 10.58,40.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
        id="path6"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 38.58,34.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
        id="path7"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 22.58,34.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
        id="path8"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        id="path9"
        class="ColorScheme-Text"
@@ -99,21 +99,21 @@
        transform="rotate(36,20,20)"
        href="#sunfrd"
        id="use9"
-       style="color:#232629;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(72,20,20)"
        href="#sunfrd"
        id="use10"
-       style="color:#232629;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(108,20,20)"
        href="#sunfrd"
        id="use11"
-       style="color:#232629;fill:#232629;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#232629;stroke-linejoin:bevel" />
     <use
        transform="rotate(-36,20,20)"
        href="#sunfrd"
        id="use12"
-       style="color:#232629;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
   </g>
 </svg>

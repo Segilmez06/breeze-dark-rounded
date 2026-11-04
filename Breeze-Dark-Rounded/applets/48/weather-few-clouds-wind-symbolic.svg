@@ -34,7 +34,7 @@
      id="current-color-scheme"
      type="text/css">
   .ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }
   </style>
   <g
@@ -46,39 +46,39 @@
        stroke="currentColor"
        stroke-width="2"
        id="line12"
-       style="color:#232629;fill:#f0f0f0;fill-opacity:1;stroke:#f1f2f4;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f0f0f0;fill-opacity:1;stroke:#f1f2f4;stroke-opacity:1" />
     <use
        transform="rotate(72,24,24)"
        href="#line12"
        id="use1"
-       style="color:#232629" />
+       style="color:#fcfcfc" />
     <use
        transform="rotate(108,24,24)"
        href="#line12"
        id="use2"
-       style="color:#232629" />
+       style="color:#fcfcfc" />
     <use
        transform="rotate(144,24,24)"
        href="#line12"
        id="use3"
-       style="color:#232629" />
+       style="color:#fcfcfc" />
     <use
        transform="rotate(180,24,24)"
        href="#line12"
        id="use4"
-       style="color:#232629" />
+       style="color:#fcfcfc" />
     <use
        transform="rotate(-36,24,24)"
        href="#line12"
        id="use5"
-       style="color:#232629;fill:#f0f0f0;fill-opacity:1;stroke:#f1f2f4;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f0f0f0;fill-opacity:1;stroke:#f1f2f4;stroke-opacity:1" />
     <path
        d="M 20,13.7 A 11,11 0 0 1 35,24 M 14.2,19 A 11,11 0 0 0 17,32.5"
        fill="none"
        stroke="currentColor"
        stroke-width="2"
        id="sunfsrs"
-       style="color:#232629;stroke:#f1f2f3;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-opacity:1" />
     <path
        id="wind1"
        class="ColorScheme-Text"
@@ -113,6 +113,6 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f2f3f3;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f2f3f3;stroke-opacity:1" />
   </g>
 </svg>

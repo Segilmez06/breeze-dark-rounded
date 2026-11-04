@@ -33,7 +33,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -42,7 +42,7 @@
        id="lightning"
        d="m 25.415,22 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
        fill="currentColor"
-       style="color:#232629;fill:#f1f3f3;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f1f3f3;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        d="m 33,37 -3,3 3,3 3,-3 z"
        class="ColorScheme-Text"
@@ -75,6 +75,6 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
   </g>
 </svg>

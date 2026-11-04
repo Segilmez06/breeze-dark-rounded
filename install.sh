@@ -78,6 +78,16 @@ if command -v gtk-update-icon-cache >/dev/null 2>&1; then
     gtk-update-icon-cache -f -q -t "${TARGET_DIR}" 2>/dev/null || true
 fi
 
+# Ensure ~/.icons symlink exists for Flatpak & GTK compatibility
+LEGACY_ICONS_DIR="$HOME/.icons"
+if [ ! -d "${LEGACY_ICONS_DIR}" ]; then
+    mkdir -p "${LEGACY_ICONS_DIR}"
+fi
+if [ ! -e "${LEGACY_ICONS_DIR}/${ICON_THEME_NAME}" ]; then
+    ln -sf "${TARGET_DIR}" "${LEGACY_ICONS_DIR}/${ICON_THEME_NAME}"
+    echo -e "    Linked ~/.icons/${ICON_THEME_NAME} for Flatpak/GTK compatibility."
+fi
+
 echo -e "\n${BOLD}${GREEN}✔ Breeze Dark Rounded installed successfully to:${RESET}"
 echo -e "  ${TARGET_DIR}"
 

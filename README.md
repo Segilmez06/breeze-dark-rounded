@@ -85,7 +85,7 @@ python3 tools/scan_theme.py
 ```
 
 Current test status:
-- Total entries: `30,622`
+- Total entries: `30,700`
 - Broken symlinks: `0`
 - Invalid XDG contexts: `0`
 - High-DPI scaled directories: `110`

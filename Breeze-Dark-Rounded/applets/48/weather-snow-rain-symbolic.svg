@@ -34,7 +34,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -45,37 +45,37 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="snowflake1"
        d="m 12,32.5 0.86052,1.5 h 1.7376 l -0.90486,1.5 0.90486,1.5 h -1.7284 l -0.86965,1.4937 -0.84804,-1.5 h -1.75 l 0.90485,-1.5 -0.90485,-1.5 h 1.7333 z"
        fill="currentColor"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="translate(16)"
        href="#snowflake1"
        id="use1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="translate(-4,5.5)"
        href="#snowflake1"
        id="use2"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="translate(12,5.5)"
        href="#snowflake1"
        id="use3"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="rainwsd"
        d="m 16,42 5,-7"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="translate(16)"
        href="#rainwsd"
        id="use4"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f3f3;stroke-linejoin:bevel;stroke-opacity:1" />
   </g>
 </svg>

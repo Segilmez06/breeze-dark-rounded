@@ -1,1 +1,11 @@
-../22/media-playback-playing.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs id="defs1">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text { color: #fcfcfc; }
+    </style>
+  </defs>
+  <g class="ColorScheme-Text" fill="currentColor">
+    <path d="M 7.50,10.97 A 3.00,3.00 0 0,1 11.90,8.31 L 21.46,13.35 A 3.00,3.00 0 0,1 21.46,18.65 L 11.90,23.69 A 3.00,3.00 0 0,1 7.50,21.03 Z" />
+  </g>
+</svg>

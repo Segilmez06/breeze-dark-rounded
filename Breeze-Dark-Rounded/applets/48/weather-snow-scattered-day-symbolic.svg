@@ -34,7 +34,7 @@
   <style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text {
-    color:#232629;
+    color:#fcfcfc;
   }</style>
   <g
      id="g1"
@@ -45,60 +45,60 @@
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(36,19,19)"
        href="#line12"
        id="use1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <use
        transform="rotate(72,19,19)"
        href="#line12"
        id="use2"
-       style="color:#232629;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;stroke-linejoin:bevel" />
     <use
        transform="rotate(108,19,19)"
        href="#line12"
        id="use3"
-       style="color:#232629;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;stroke-linejoin:bevel" />
     <use
        transform="rotate(-36,19,19)"
        href="#line12"
        id="use4"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="sun"
        d="M 11.4,23.83 A 9,9 0 0 1 21.34,10.31"
        stroke="currentColor"
        stroke-width="2"
        fill="none"
-       style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
     <path
        id="snowflake1"
        d="m 19,32.5 0.86052,1.5 h 1.7376 l -0.90486,1.5 0.90486,1.5 h -1.7284 l -0.86965,1.4937 -0.84804,-1.5 h -1.75 l 0.90485,-1.5 -0.90485,-1.5 h 1.7333 z"
        fill="currentColor"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <use
        id="use6"
        transform="translate(16)"
        href="#snowflake1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <use
        id="use8"
        transform="translate(-8,5.5)"
        href="#snowflake1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <use
        id="use9"
        transform="translate(8,5.5)"
        href="#snowflake1"
-       style="color:#232629;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
+       style="color:#fcfcfc;fill:#f2f2f2;fill-opacity:1;stroke-linejoin:bevel" />
     <path
        id="cloud"
        d="m 29,31 h 5 A 7,7 0 0 0 34.95,17.08 9,9 0 0 0 26,9 9,9 0 0 0 17.64,21.31 5,5 0 1 0 16.01,31 h 2 z"
        fill="none"
        stroke="currentColor"
        stroke-width="2"
-       style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
+       style="color:#fcfcfc;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1" />
   </g>
 </svg>
