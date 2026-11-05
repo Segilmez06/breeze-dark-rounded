@@ -40,3 +40,4 @@ Breeze Dark Rounded (`net.sarpegilmez.breeze-dark-rounded`) is a unified, curate
 - **2026-11-05**: Completed 30,622-entry scan with zero broken links; converted absolute symlinks to relative; added `@2x`/`@3x` High-DPI scaled symlinks.
 - **2026-11-05**: Released `v0.1.0` with CI/CD release workflow and automated tarball packaging.
 - **2026-11-05**: Resolved media controls inconsistency: eliminated circular rings in favor of bare rounded glyphs with pure white (`#fcfcfc`) styling; purged 585 `#232629` dark fallbacks across the theme; added `~/.icons` compatibility link for Flatpaks.
+- **2026-11-05**: Conducted comprehensive security & privacy audit with zero credential leaks; untracked binary cache `icon-theme.cache`; fixed symbolic SVG typos (`folder-lab.svg`, `folder-toy.svg`); stripped upstream Inkscape path metadata; transitioned repository visibility to Public on GitHub.
