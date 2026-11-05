@@ -4,19 +4,24 @@ sources/
 build/
 
 # Scratch & Selection artifacts
-conflict_selector.html
-conflict_decisions.json
-icon_packs_analysis.md
+/conflict*
+/conflict_selector.html
+/conflict_decisions.json
+/icon_packs_analysis.md
 
 # Compiled python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
+.venv/
+venv/
 
 # OS & Desktop metadata
 .DS_Store
 Thumbs.db
 *.directory
+*.swp
+*~
 
 # Release archives & local packages
 *.tar.gz
@@ -26,3 +31,7 @@ SHA256SUMS
 # Local test & log scratch
 /tmp/
 *.log
+
+# Icon theme caches (generated dynamically on client)
+icon-theme.cache
+**/icon-theme.cache

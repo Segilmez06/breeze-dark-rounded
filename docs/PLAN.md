@@ -5,7 +5,7 @@
 - **Theme Name**: Breeze Dark Rounded
 - **Reverse DNS Identifier**: `net.sarpegilmez.breeze-dark-rounded`
 - **Target Desktop**: KDE Plasma 6 on Wayland (Arch Linux / CachyOS)
-- **Repository Visibility**: Private (`github.com/Segilmez06/breeze-dark-rounded`)
+- **Repository Visibility**: Public (`github.com/Segilmez06/breeze-dark-rounded`)
 - **License**: LGPL-3.0-or-later / GPL-3.0-or-later (matching KDE Breeze upstream)
 
 ## 2. Directory Layout

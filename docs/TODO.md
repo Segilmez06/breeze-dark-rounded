@@ -10,7 +10,7 @@
   - [x] Extract pure symbolic panels and sidebars
   - [x] Merge rounded KDE application launchers (Breeze Rounded Icons + Breeze_Dark_RC)
   - [x] Resolve visual conflicts (Media controls, Core apps, Folder badges, Action tools)
-  - [x] Apply user preference for rounded media playback controls (Option A)
+  - [x] Apply user preference for bare rounded media playback controls
 
 - [x] Phase 3: Plasma 6 System Settings Fix & Diagnostic Audit
   - [x] Fix invalid XDG contexts (`Preferences`, `Apps`) in `index.theme`
@@ -19,13 +19,13 @@
   - [x] Restore official Breeze gear/cog to `categories/32/applications-system.svg`
   - [x] Validate zero broken symlinks and zero context warnings in `kf.iconthemes`
 
-- [ ] Phase 4: Repository Standardization & Git Publishing
-  - [ ] Move verified build tree to root `Breeze-Dark-Rounded/`
-  - [ ] Consolidate verification and maintenance tools in `tools/`
-  - [ ] Create `install.sh` and `uninstall.sh` with fish/bash support
-  - [ ] Write `README.md` and `AGENTS.md`
-  - [ ] Configure GitHub Actions release workflow `.github/workflows/release.yml`
-  - [ ] Initialize local git repository with `.gitignore`
-  - [ ] Commit with Conventional Commits format
-  - [ ] Create private remote GitHub repository `@Segilmez06/breeze-dark-rounded`
-  - [ ] Push main branch and tag initial release `v0.1.0`
+- [x] Phase 4: Repository Standardization & Git Publishing
+  - [x] Move verified build tree to root `Breeze-Dark-Rounded/`
+  - [x] Consolidate verification and maintenance tools in `tools/`
+  - [x] Create `install.sh` and `uninstall.sh` with fish/bash support
+  - [x] Write `README.md` and `AGENTS.md`
+  - [x] Configure GitHub Actions release workflow `.github/workflows/release.yml`
+  - [x] Initialize local git repository with `.gitignore`
+  - [x] Commit with Conventional Commits format
+  - [x] Create remote GitHub repository `Segilmez06/breeze-dark-rounded`
+  - [x] Push main branch and tag releases (v0.1.0, v0.1.1)
